@@ -252,3 +252,5 @@ D:\KTI\SampleSecureWeb\obj\Debug\net8.0\refint\SampleSecureWeb.dll
 D:\KTI\SampleSecureWeb\obj\Debug\net8.0\SampleSecureWeb.pdb
 D:\KTI\SampleSecureWeb\obj\Debug\net8.0\SampleSecureWeb.genruntimeconfig.cache
 D:\KTI\SampleSecureWeb\obj\Debug\net8.0\ref\SampleSecureWeb.dll
+D:\KTI\SampleSecureWeb\obj\Debug\net8.0\SampleSecureWeb.sourcelink.json
+D:\KTI\SampleSecureWeb\bin\Debug\net8.0\BCrypt.Net-Next.dll
